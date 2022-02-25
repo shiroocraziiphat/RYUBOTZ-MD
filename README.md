@@ -103,4 +103,4 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner And More On [`setting.json`](https://github.com/FBOTZ-YT/RyuBotzMD/blob/master/setting.json)
+Editing Number Owner And More On [`setting.json`](https://github.com/R-TEAM94/RYUBOTZ-MD/blob/master/setting.json)
