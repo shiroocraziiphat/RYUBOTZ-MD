@@ -25,13 +25,13 @@ const setting = JSON.parse(fs.readFileSync('./setting.json'))
     admin: '*LU ADMIN? 🤨*',
     botAdmin: '*BOT BUKAN ADMIN 😔*',
     owner: '*LU BUKAN OWNER GW 😠*',
-    group: '*KHUSUS GROUP 😏*',
+    group: '*KHUSUS GROUP*',
     private: '*KHUSUS PRIVATE CHAT*',
     bot: '*KHUSUS PENGGUNA NOMER BOT*',
     wait: '*SABAR SEDANG DI PROSES ...*',
-    done: '*DONE NGAB 🤗*',
+    done: '*DONE,OKE DESU*',
     }
-    global.thumb = fs.readFileSync('./media/ryuu.jpg')
+    global.thumb = fs.readFileSync('./media/elaina.jpg')
     
     //===> INI JUGA GAUSAH DIUBAH
     let file = require.resolve(__filename)
